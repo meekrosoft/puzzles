@@ -1,0 +1,158 @@
+digraph RGL__DirectedAdjacencyGraph {
+    edwardi [
+        fontsize = 8,
+        label = edwardi
+    ]
+
+    charlesi [
+        fontsize = 8,
+        label = charlesi
+    ]
+
+    diana [
+        fontsize = 8,
+        label = diana
+    ]
+
+    philip [
+        fontsize = 8,
+        label = philip
+    ]
+
+    mistress [
+        fontsize = 8,
+        label = mistress
+    ]
+
+    mary [
+        fontsize = 8,
+        label = mary
+    ]
+
+    wilhelm [
+        fontsize = 8,
+        label = wilhelm
+    ]
+
+    matthew [
+        fontsize = 8,
+        label = matthew
+    ]
+
+    helen [
+        fontsize = 8,
+        label = helen
+    ]
+
+    edwardii [
+        fontsize = 8,
+        label = edwardii
+    ]
+
+    laura [
+        fontsize = 8,
+        label = laura
+    ]
+
+    alice [
+        fontsize = 8,
+        label = alice
+    ]
+
+    bernard [
+        fontsize = 8,
+        label = bernard
+    ]
+
+    henrii [
+        fontsize = 8,
+        label = henrii
+    ]
+
+    roxane [
+        fontsize = 8,
+        label = roxane
+    ]
+
+    elizabeth [
+        fontsize = 8,
+        label = elizabeth
+    ]
+
+    charlesii [
+        fontsize = 8,
+        label = charlesii
+    ]
+
+    edwardi -> charlesi [
+        fontsize = 8
+    ]
+
+    charlesi -> philip [
+        fontsize = 8
+    ]
+
+    charlesi -> edwardii [
+        fontsize = 8
+    ]
+
+    charlesi -> alice [
+        fontsize = 8
+    ]
+
+    diana -> charlesi [
+        fontsize = 8
+    ]
+
+    philip -> wilhelm [
+        fontsize = 8
+    ]
+
+    mistress -> philip [
+        fontsize = 8
+    ]
+
+    mary -> wilhelm [
+        fontsize = 8
+    ]
+
+    wilhelm -> matthew [
+        fontsize = 8
+    ]
+
+    helen -> matthew [
+        fontsize = 8
+    ]
+
+    edwardii -> henrii [
+        fontsize = 8
+    ]
+
+    laura -> edwardii [
+        fontsize = 8
+    ]
+
+    laura -> alice [
+        fontsize = 8
+    ]
+
+    alice -> helen [
+        fontsize = 8
+    ]
+
+    bernard -> helen [
+        fontsize = 8
+    ]
+
+    henrii -> charlesii [
+        fontsize = 8
+    ]
+
+    roxane -> henrii [
+        fontsize = 8
+    ]
+
+    elizabeth -> charlesii [
+        fontsize = 8
+    ]
+}
